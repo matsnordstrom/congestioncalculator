@@ -22,6 +22,10 @@ The Application is now launched at
 
 ### Request
 
+Place the Request to
+
+[localhost:8080/congestion/calculate-tax](localhost:8080/congestion/calculate-tax)
+
 The application will accept POST-requests with a body containing vehicle type and a list of dates.
 
 The body shall be of JSON format according to below example.
